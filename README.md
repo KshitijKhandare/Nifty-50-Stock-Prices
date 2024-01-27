@@ -1,2 +1,3 @@
 # Nifty-50-Stock-Prices
 Historical stock market data for current Nifty 50 companies, from 2000-2021. Each record represents a single day of trading and includes the ticker name, volume, and high, low, open, and close prices.
+Historical stock market data for current Nifty 50 companies, from 2000-2021. Each record represents a single day of trading and includes the ticker name, volume, and high, low, open, and close prices.The main objective of this project is to analyze the historical stock prices of Nifty 50 companies from the year 2000 to 2021, identify trends, patterns, and potential factors influencing stock prices, and build a predictive model for future price movements.
